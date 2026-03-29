@@ -45,3 +45,5 @@ struct BookModel : Favoritable {
         return bookTitle + " " + bookAuthor
     }
 }
+
+
